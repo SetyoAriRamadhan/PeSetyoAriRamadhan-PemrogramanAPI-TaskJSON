@@ -1,0 +1,22 @@
+{
+    "velg": [
+      {
+        "IdProduk": 1,
+        "KodeProduk": "001",
+        "NamaProduk": "Samlong F1",
+        "HargaModal": "7500000",
+        "HargaJual": "8880000",
+        "HargaDiskon": 8480000,
+        "stok": 5
+      },
+      {
+        "IdProduk": 2,
+        "KodeProduk": "002",
+        "NamaProduk": "Lenso Venom 5",
+        "HargaModal": "1958000",
+        "HargaJual": "2148000",
+        "HargaDiskon": 2180000,
+        "stok": 5
+      }
+    ]
+  }
